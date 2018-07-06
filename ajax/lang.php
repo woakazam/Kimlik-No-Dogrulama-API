@@ -3,8 +3,8 @@
     require ('../global/function.php');
 
     $j['EmptyFields'] = array(
-        'a' => 200,
-        'b' => 'Başarılı',
+        'a' => 100,
+        'b' => 'Hata',
         'c' => 'Boş Alan Bırakmayınız',
         'd' => 'error'
     );
